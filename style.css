@@ -134,3 +134,10 @@
         padding: 30px;
     }
   }
+    .page-footer {
+      font-size: .60;
+      color: var(--text);
+      opacity: 0.5;
+      text-align: right;
+   
+}
