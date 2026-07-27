@@ -135,9 +135,9 @@
     }
   }
     .page-footer {
-      font-size: .60rem;
+      font-size: .65rem;
       color: var(--text);
-      opacity: 0.5;
+      opacity: 0.65;
       text-align: right;
    
 }
