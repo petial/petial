@@ -1,1 +1,1 @@
-## Favorite pictures from my recently deceased Canon sx720, RIP. 
+## My favorite pictures from my recently deceased Canon sx720 -- RIP
